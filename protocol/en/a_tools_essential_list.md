@@ -572,6 +572,12 @@
 - Pricing: Free, open source
 - Best for: Android users sharing photos
 
+**[Metadata Remover](https://metadataremover.ai/exif-remover)** (Web)
+- Type: Browser-based EXIF metadata remover
+- Pricing: Free
+- Platforms: Modern web browsers
+- Best for: Removing image EXIF and GPS metadata locally without uploading files
+
 **Metapho** (iOS)
 - Type: Metadata viewer/editor
 - Pricing: Free (in-app purchases)
